@@ -1,0 +1,6 @@
+title: Kyp.com
+description: Test own website
+show_downloads: true
+markdown: kramdown
+google_analytics:
+theme: jekyll-theme-cayman
